@@ -43,16 +43,16 @@ h1 {
     color: rgba(100,100,100,1);
 }
 .google {
-    background-image: url('images/search/google.png');
+    background-image: url('./images/search/google.png');
 }
 .vg {
-    background-image: url('images/search/vg.png');
+    background-image: url('./images/search/vg.png');
 }
 .youtube {
-    background-image: url('images/search/youtube.png');
+    background-image: url('./images/search/youtube.png');
 }
 .wikipedia {
-    background-image: url('images/search/wikipedia.jpg');
+    background-image: url('./images/search/wikipedia.jpg');
 }
 
 /* Grey button */

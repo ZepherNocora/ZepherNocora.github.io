@@ -28,7 +28,7 @@ function removeMascot() {
 
 $(document).ready(function(event) {
     var mascotEnable    = true;
-    var mascotPath      = "images/mascots/"
+    var mascotPath      = "./images/mascots/"
     var mascotList = ['flan1.png', 'flan2.png', 'flan3.png', 'flan4.png', ];
 
     var mascot          = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
